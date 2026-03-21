@@ -1,22 +1,105 @@
-🌟 About Me
+<h1 align="center">Hi 👋, I'm Aman Jaiswal</h1>
+<h3 align="center">🚀 Computer Science Engineer | 💻 Full Stack Developer | 🤖 ML Enthusiast</h3>
 
-🎓 Passionate about Computer Science and exploring new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Machine+Learning+Explorer;Competitive+Programmer;Always+Learning+New+Things" />
+</p>
 
-🤖 Interested in Machine Learning, DBMS, and full-stack development.
+---
 
-🚀 Working on dashboards, DBMS systems, and AI applications.
+## 🧠 About Me
 
-🧠 Solve problems on LeetCode, Codeforces, and coding platforms.
+✨ Passionate about Computer Science and always curious to explore new technologies  
+🔍 Interested in **Machine Learning, DBMS & Full Stack Development**  
+🚀 Working on **AI apps, dashboards & real-world systems**  
+💡 Love solving problems on **LeetCode & Codeforces**  
+🤝 Always open to collaboration and impactful projects  
 
-🌱 Always eager to learn, collaborate, and build impactful solutions.
+---
 
-🌐 Socials
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanjaiswal31/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:amanjaiswal.cse@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanjaiswal31/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amanjaiswal.cse@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-💻 Tech Stack
+---
 
-![C](https://img.shields.io/badge/C-blue?logo=c) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+## ⚡ Tech Stack
 
- 
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,r" />
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🧠 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+</p>
+
+### 🔌 Hardware & Networking
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco"/>
+<img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+</p>
+
+---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/amanjais31?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanjaiswal31&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💎 Fun Fact
+
+⚡ I turn ☕ coffee into scalable code and innovative solutions  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
