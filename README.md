@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aman Jaiswal</h1>
-<h3 align="center">🚀 Computer Science Engineer | 💻 Full Stack Developer | 🤖 ML Enthusiast</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Machine+Learning+Explorer;Competitive+Programmer;Always+Learning+New+Things" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF6B6B&height=180&section=header&text=Aman%20Jaiswal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=51&descAlign=50"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Explorer;Competitive+Programmer;Always+Building+Something+New;Open+to+Collaboration!" alt="Typing SVG" />
+<br/>
+</div>
 
 ---
 
@@ -11,7 +11,10 @@
 🔍 Interested in **Machine Learning, DBMS & Full Stack Development**  
 🚀 Working on **AI apps, dashboards & real-world systems**  
 💡 Love solving problems on **LeetCode & Codeforces**  
-🤝 Always open to collaboration and impactful projects  
+🤝 Always open to collaboration and impactful projects 
+
+
+
 
 ---
 
@@ -50,6 +53,8 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ### 🔌 Hardware & Networking
@@ -61,16 +66,20 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmanJaiswal31&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanJaiswal31&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJaiswal31&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-</p>
+
+
+### 🔥 Github Analytics
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanJaiswal31&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
+</div>
+<div align="center">
+
+### 🐍 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanjaiswal31&theme=tokyo-night&hide_border=true&radius=8" width="95%"/>
+</div>
 
 ---
+
 
 ## 🏆 LeetCode Stats
 <p align="center">
@@ -79,12 +88,7 @@
 
 ---
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanjaiswal31&theme=tokyo-night&hide_border=true" />
-</p>
 
----
 
 ## 💎 Fun Fact
 ⚡ I turn ☕ coffee into scalable code and innovative solutions  
