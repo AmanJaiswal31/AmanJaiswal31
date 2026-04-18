@@ -68,7 +68,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmanJaiswal31&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmanJaiswal31&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800&v=2" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanJaiswal31&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 </p>
 
