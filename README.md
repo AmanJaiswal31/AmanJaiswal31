@@ -75,7 +75,7 @@
 <div align="center">
 
 ### 🐍 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanjaiswal31&theme=tokyo-night&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanjaiswal31&theme=tokyo-night&hide_border=true&radius=8" width="95%"/>
 </div>
 
 ---
