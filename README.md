@@ -70,7 +70,7 @@
 
 ### 🔥 Github Analytics
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=AmanJaiswal31&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanJaiswal31&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
 </div>
 <div align="center">
 
