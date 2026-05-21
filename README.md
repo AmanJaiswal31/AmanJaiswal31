@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Mee
+## 🧠 About Me
 ✨ Passionate about Computer Science and always curious to explore new technologies  
 🔍 Interested in **Machine Learning, DBMS & Full Stack Development**  
 🚀 Working on **AI apps, dashboards & real-world systems**  
